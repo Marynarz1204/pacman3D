@@ -1,0 +1,6 @@
+C:\Users\micha\Desktop\pl_szkielet_03_win\Debug\pl_szkielet_03_win.exe
+C:\Users\micha\Desktop\pl_szkielet_03_win\Debug\pl_szkielet_03_win.pdb
+C:\Users\micha\Desktop\pacman\Debug\pacman3D.exe
+C:\Users\micha\Desktop\pacman\Debug\pacman3D.pdb
+C:\Users\micha\Desktop\grafika\pacman\Debug\pacman3D.exe
+C:\Users\micha\Desktop\grafika\pacman\Debug\pacman3D.pdb

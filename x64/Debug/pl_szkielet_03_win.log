@@ -1,0 +1,26 @@
+﻿  cube.cpp
+C:\Users\micha\Desktop\pl_szkielet_03_win\model.h(24,10): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  lodepng.cpp
+C:\Users\micha\Desktop\pl_szkielet_03_win\lodepng.cpp(762,34): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+C:\Users\micha\Desktop\pl_szkielet_03_win\lodepng.cpp(1422,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\micha\Desktop\pl_szkielet_03_win\lodepng.cpp(1426,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\micha\Desktop\pl_szkielet_03_win\lodepng.cpp(1498,86): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\micha\Desktop\pl_szkielet_03_win\lodepng.cpp(3441,46): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+C:\Users\micha\Desktop\pl_szkielet_03_win\lodepng.cpp(3455,54): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\micha\Desktop\pl_szkielet_03_win\lodepng.cpp(4262,75): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\micha\Desktop\pl_szkielet_03_win\lodepng.cpp(4310,41): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\micha\Desktop\pl_szkielet_03_win\lodepng.cpp(4390,59): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\micha\Desktop\pl_szkielet_03_win\lodepng.cpp(5329,38): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  main_file.cpp
+C:\Users\micha\Desktop\pl_szkielet_03_win\main_file.cpp(22,10): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  model.cpp
+C:\Users\micha\Desktop\pl_szkielet_03_win\model.h(24,10): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  shaderprogram.cpp
+C:\Users\micha\Desktop\pl_szkielet_03_win\shaderprogram.h(25,10): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  sphere.cpp
+C:\Users\micha\Desktop\pl_szkielet_03_win\model.h(24,10): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  teapot.cpp
+C:\Users\micha\Desktop\pl_szkielet_03_win\model.h(24,10): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  torus.cpp
+C:\Users\micha\Desktop\pl_szkielet_03_win\model.h(24,10): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  Generating Code...
